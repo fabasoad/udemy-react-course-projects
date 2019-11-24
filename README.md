@@ -1,4 +1,5 @@
 # Boilerplate app
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/fabasoad/react-boilerplate-app-v1.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/fabasoad/react-boilerplate-app-v1/alerts/) [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/fabasoad/react-boilerplate-app-v1.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/fabasoad/react-boilerplate-app-v1/context:javascript)
 ## Description
 This is a simple frontend development boilerplate project. It is based on React and SCSS.
 ## How to run app locally
